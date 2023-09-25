@@ -10,7 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Slides (pdf)</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/assets/files/cptuto.pdf">Slides (pdf)</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -26,8 +26,8 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Sources (.tex)</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Images' notebook</a>
+      <a class="sidebar-nav-item" href="/assets/files/cptuto_sources.zip">Sources (.tex)</a>
+      <a class="sidebar-nav-item" href="/assets/files/cptuto_notebook_illus.ipynb">Images' notebook</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved, forked from <a rel="license" href="https://github.com/poole/hyde#license">Mark Otto (&copy; 2013)</a>.</p>

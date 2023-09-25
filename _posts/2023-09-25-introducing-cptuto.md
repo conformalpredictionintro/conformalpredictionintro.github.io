@@ -9,7 +9,7 @@ Feel free to re-use and adapt the slides (tex sources and notebook to reproduce 
 
 - [pdf](/assets/files/cptuto.pdf)
 - [tex sources](/assets/files/cptuto_sources.zip)
-- [figures notebook](/assets/files/cptuto_notebook_images.ipynb)
+- [figures notebook](/assets/files/cptuto_notebook_illus.ipynb)
 
 ***
 
