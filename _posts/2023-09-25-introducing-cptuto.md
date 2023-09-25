@@ -7,7 +7,7 @@ On this website you can find [slides](link) of an introductive tutorial to Confo
 
 Feel free to re-use and adapt the slides (tex sources and notebook to reproduce images are also available): if you do, please **refer to this page and license**.  
 
-- <a href="/_includes/files/cptuto.pdf">pdf</a>
+- <a href="/assets/files/cptuto.pdf">pdf</a>
 - [tex sources](_includes/files/cptuto_sources.zip)
 - [figures notebook](_includes/files/cptuto_notebook_images.ipynb)
 
