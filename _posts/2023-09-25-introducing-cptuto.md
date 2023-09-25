@@ -8,7 +8,8 @@ On this website you can find [slides](link) of an introductive tutorial to Confo
 ***
 
 The outline is the following:  
-1. Quantile Regression
+1. Quantile Regression  
+
 1. Split Conformal Prediction
     - Standard mean-regression case
     - Conformalized Quantile Regression
