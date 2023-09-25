@@ -7,7 +7,6 @@ permalink:        pretty
 
 # Setup
 title:            CP tutorial
-tagline:          'A(nother) CP tutorial'
 description:      'An introductive tutorial to Conformal Prediction. Made by <a href="https://mzaffran.github.io" target="_blank">Margaux Zaffran</a>.'
 url:              https://conformalpredictionintro.github.io
 baseurl:          /
