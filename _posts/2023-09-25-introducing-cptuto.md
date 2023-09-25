@@ -21,7 +21,9 @@ Feel free to re-use and adapt the slides (tex sources and notebook to reproduce 
 - [pdf](link)
 - [tex sources](link)
 - [figures notebook](link)
+
 ***
+
 This tutorial (modified and/or part of it) have already been used in the past with external audiences, before it was shared on this website.
 1. [Margaux Zaffran](https://mzaffran.github.io/), 2022, 28th of June, Mathematical Methods of Modern Statistics 3
 1. [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), 2023, 6th of April, Owkin
