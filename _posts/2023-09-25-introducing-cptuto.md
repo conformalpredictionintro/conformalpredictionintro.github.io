@@ -4,6 +4,7 @@ title: Introducing (another) Conformal Prediction tutorial!
 ---
 
 On this website you can find [slides](link) of an introductive tutorial to Conformal Prediction, built during the PhD studies of [Margaux Zaffran](https://mzaffran.github.io/).   
+***
 The outline is the following:  
 1. Quantile Regression
 1. Split Conformal Prediction
@@ -14,13 +15,13 @@ The outline is the following:
     - Full Conformal Prediction
     - Jackknife+ (and CV+)
 1. Beyond exchangeability
-
-Feel free to re-use and adapt the slides (tex sources and notebook to reproduce images are also available): if you do, please refer to this page and license.  
+***
+Feel free to re-use and adapt the slides (tex sources and notebook to reproduce images are also available): if you do, please **refer to this page and license**.  
 
 - [pdf](link)
 - [tex sources](link)
 - [figures notebook](link)
-
+***
 This tutorial (modified and/or part of it) have already been used in the past with external audiences, before it was shared on this website.
 1. [Margaux Zaffran](https://mzaffran.github.io/), 2022, 28th of June, Mathematical Methods of Modern Statistics 3
 1. [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/), 2023, 6th of April, Owkin
