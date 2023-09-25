@@ -35,4 +35,4 @@ This tutorial (modified and/or part of it) have already been used in the past wi
 1. [Margaux Zaffran](https://mzaffran.github.io/), 2023, 13th of June, _MIND & SODA - INRIA_
 1. [Margaux Zaffran](https://mzaffran.github.io/), 2023, 10th of September, _ENBIS Annual conference_
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This tutorial by Margaux Zaffran (2023) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>This tutorial by Margaux Zaffran (2023) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
