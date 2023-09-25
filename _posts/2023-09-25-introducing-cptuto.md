@@ -3,7 +3,7 @@ layout: post
 title: Introducing (another) Conformal Prediction tutorial!
 ---
 
-On this website you can find [slides](link) of an introductive tutorial to Conformal Prediction, built during the PhD studies of [Margaux Zaffran](https://mzaffran.github.io/).  
+On this website you can find [slides](/assets/files/cptuto.pdf) of an introductive tutorial to Conformal Prediction, built during the PhD studies of [Margaux Zaffran](https://mzaffran.github.io/).  
 
 Feel free to re-use and adapt the slides (tex sources and notebook to reproduce images are also available): if you do, please **refer to this page and license**.  
 
