@@ -11,6 +11,12 @@ Feel free to re-use and adapt the slides (tex sources and notebook to reproduce 
 - [tex sources](/assets/files/cptuto_sources.zip)
 - [figures notebook](/assets/files/cptuto_notebook_illus.ipynb)
 
+<object data=
+"/assets/files/cptuto.pdf" 
+                width="800"
+                height="500">
+</object>
+
 ***
 
 The outline is the following:  
