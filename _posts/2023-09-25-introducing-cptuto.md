@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing (another) Conformal Prediction tutorial!
+title: A Conformal Prediction tutorial: an introductive review of the basics. 
 ---
 
 On this website you can find [slides](/assets/files/cptuto.pdf) of an introductive tutorial to Conformal Prediction, built during the PhD studies of [Margaux Zaffran](https://mzaffran.github.io/).  
@@ -12,7 +12,7 @@ Feel free to re-use and adapt the slides (tex sources and notebook to reproduce 
 - [figures notebook](/assets/files/cptuto_notebook_illus.ipynb)
 
 <object data=
-"/assets/files/cptuto.pdf" 
+"/assets/files/cptuto.pdf"
                 width="800"
                 height="500">
 </object>
