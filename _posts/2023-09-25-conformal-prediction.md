@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conformal Prediction tutorial
+title: Conformal Prediction tutorial: blabla
 ---
 
 On this website you can find [slides](/assets/files/cptuto.pdf) of an introductive tutorial to Conformal Prediction, built during the PhD studies of [Margaux Zaffran](https://mzaffran.github.io/).  
@@ -20,7 +20,7 @@ Feel free to re-use and adapt the slides (tex sources and notebook to reproduce 
 ***
 
 The outline is the following:  
-1. Quantile Regression  
+1. Quantile Regression _(slides 3-7)_  
 
 1. Split Conformal Prediction
     - Standard mean-regression case
