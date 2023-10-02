@@ -20,16 +20,16 @@ Feel free to re-use and adapt the slides (tex sources and notebook to reproduce 
 ***
 
 The outline is the following:  
-1. Quantile Regression _(slides 3-7)_  
+1. Quantile Regression <p style="color:#FF0000";>_(slides 3-7)_</p>  
 
 1. Split Conformal Prediction
-    - Standard mean-regression case
-    - Conformalized Quantile Regression
-    - Generalization of SCP: going beyond regression
+    - Standard mean-regression case _(slides 9-21)_
+    - Conformalized Quantile Regression _(slides 22-27)_
+    - Generalization of SCP: going beyond regression _(slides 28-38)_
 1. Avoiding data splitting: full conformal and out-of-bags approaches
-    - Full Conformal Prediction
-    - Jackknife+ (and CV+)
-1. Beyond exchangeability
+    - Full Conformal Prediction _(slides 39-45)_
+    - Jackknife+ (and CV+) _(slides 46-49)_
+1. Beyond exchangeability _(slides 50-55)_
 
 ***
 
