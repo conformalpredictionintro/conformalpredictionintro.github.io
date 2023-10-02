@@ -20,7 +20,7 @@ Feel free to re-use and adapt the slides (tex sources and notebook to reproduce 
 ***
 
 The outline is the following:  
-1. Quantile Regression <span style="color:gray">_(slides 3-7)_</span>  
+1. Quantile Regression <small><span style="color:gray">_(slides 3-7)_</span></small>  
 
 1. Split Conformal Prediction
     - Standard mean-regression case _(slides 9-21)_
