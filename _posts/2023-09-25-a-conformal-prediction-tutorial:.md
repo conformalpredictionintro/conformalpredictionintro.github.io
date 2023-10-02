@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conformal Prediction tutorial: an introductive review of the basics. 
+title: A Conformal Prediction tutorial: an introductive review of the basics. 
 ---
 
 On this website you can find [slides](/assets/files/cptuto.pdf) of an introductive tutorial to Conformal Prediction, built during the PhD studies of [Margaux Zaffran](https://mzaffran.github.io/).  
